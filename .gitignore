@@ -1,0 +1,30 @@
+# __pycache__ et fichiers compilés
+__pycache__/
+*.py[cod]
+
+# Fichiers générés (images et texte)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+*.txt
+*.log
+
+# Environnements virtuels
+.env/
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Dossiers de sauvegarde/backup
+*.bak
+*.old
